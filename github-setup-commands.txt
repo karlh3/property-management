@@ -15,3 +15,5 @@ Next Time Onwards
 4. git push
 
 For intellij, add token to github settings
+List all branches: git branch -a
+switch branch:  git checkout origin/main
